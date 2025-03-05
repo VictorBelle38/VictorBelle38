@@ -6,11 +6,11 @@
 
 ## 📖 Sobre mim:
 
-🧑‍💻 Cientista de Dados apaixonado por transformar dados em insights estratégicos e soluções práticas.  
+🧑‍💻 Cientista de Dados em formação com paixão por transformar dados em insights estratégicos e criar produtos de dados que impulsionam negócios. Atualmente, estou me especializando em Ciência de Dados e sempre buscando crescimento e aprendizado contínuo.
 
-📊 Tenho experiência com Python, SQL, Machine Learning, Power BI e ChatBots atuando no desenvolvimento de modelos preditivos, análise exploratória e visualização de dados.  
+📊 Tenho interesse em Big Data, Python, SQL, Power BI e Machine Learning. Possuo experiência em consultas complexas, manipulação e análise de dados, além do desenvolvimento de ETLs e dashboards interativos utilizando Power BI e Metabase. Já desenvolvi um projeto de integração com a Binance API para análise de tokens e indicadores financeiros, , além de outras soluções voltadas para visualização de dados e modelagem preditiva.
 
-🚀 A meta é aprendizado contínuo para otimizar processos e gerar impacto positivo através dos dados.  
+🚀 Minha missão é utilizar dados para potencializar a tomada de decisões e gerar valor para negócios, sempre buscando inovação e aprimoramento constante.
 
 ---
 
