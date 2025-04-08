@@ -4,13 +4,15 @@
 
 ---
 
-## 📖 Sobre mim:
+## 📖 About Me:
 
-🧑‍💻 Cientista de Dados em formação com paixão por transformar dados em insights estratégicos e criar produtos de dados que impulsionam negócios. Atualmente, estou me especializando em Ciência de Dados e sempre buscando crescimento e aprendizado contínuo.
+ - Aspiring Data Scientist with a passion for transforming data into strategic insights and creating data products that drive business value. Currently specializing in Data Science and constantly seeking growth and continuous learning.
 
-📊 Tenho interesse em Big Data, Python, SQL, Power BI e Machine Learning. Possuo experiência em consultas complexas, manipulação e análise de dados, além do desenvolvimento de ETLs e dashboards interativos utilizando Power BI e Metabase. Já desenvolvi um projeto de integração com a Binance API para análise de tokens e indicadores financeiros, , além de outras soluções voltadas para visualização de dados e modelagem preditiva.
+- I’m interested in Big Data, Python, SQL, Power BI, and Machine Learning. I have experience in complex queries, data manipulation and analysis, as well as developing ETLs and interactive dashboards using Power BI and Metabase. I’ve also developed a project integrating the Binance API for token and financial indicator analysis, along with other solutions focused on data visualization and predictive modeling.
 
-🚀 Minha missão é utilizar dados para potencializar a tomada de decisões e gerar valor para negócios, sempre buscando inovação e aprimoramento constante.
+- My mission is to harness data to empower decision-making and generate business value—always striving for innovation and continuous improvement.
+
+
 
 ---
 
