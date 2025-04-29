@@ -10,6 +10,8 @@
 
 - I’m interested in Big Data, Python, SQL, Power BI, and Machine Learning. I have experience in complex queries, data manipulation and analysis, as well as developing ETLs and interactive dashboards using Power BI and Metabase. I’ve also developed a project integrating the Binance API for token and financial indicator analysis, along with other solutions focused on data visualization and predictive modeling.
 
+- Currently, I'm expanding my skills by studying PHP to gain deeper knowledge of backend development, enhancing my ability to build complete data-driven applications.
+
 - My mission is to harness data to empower decision-making and generate business value—always striving for innovation and continuous improvement.
 
 
@@ -25,6 +27,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 ---
 
