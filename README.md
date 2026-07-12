@@ -53,10 +53,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorBelle38&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBelle38&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorBelle38&theme=dark&hide_border=true" alt="Streak"/>
 </p>
-
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBelle38&layout=compact&theme=dark)
 
