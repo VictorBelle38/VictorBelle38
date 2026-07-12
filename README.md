@@ -2,15 +2,15 @@
 <p align="center">Full Stack Developer • Data Science • Automation & Systems Engineering</p>
 
 ---
-
 ## 📖 About Me:
-- Full Stack Developer working daily with **TypeScript**, **JavaScript** and **Python**, building end-to-end applications — from database modeling and API design to production-ready interfaces.
-- Strong background in **Data Science and analytics**, applying data manipulation, ETL pipelines, statistical analysis and predictive modeling to turn raw data into decisions that generate real business value.
-- Experienced in **workflow automation with n8n**, integrating REST APIs, third-party services, webhooks and internal tools to eliminate manual work and connect systems that were never meant to talk to each other.
-- Focused on **systems management and implementation**: deploying, integrating and maintaining systems in production, including infrastructure, monitoring and continuous improvement.
-- Previously built a project integrating the **Binance API** for token and financial indicator analysis, plus dashboards and data visualization solutions using Power BI and Metabase.
-- My mission is to combine software engineering, automation and data to build systems that actually move the business forward.
+- **Complete technology operation at TA_MA_RA_S** — a high-performing real estate company in São Paulo — from infrastructure and internal systems to the public-facing web presence.
+- **Custom systems built from scratch:** commission calculation engines, property management tools, image delivery infrastructure and internal dashboards — replacing off-the-shelf platforms with solutions shaped around how the business actually operates.
+- **Fully custom websites and web applications** in **TypeScript, JavaScript and Python**. No templates, no page builders. Database modeling, API design and production interfaces, end to end.
+- **Business automation with n8n:** REST APIs, webhooks, third-party services and internal tools wired together, turning hours of manual work into processes that run on their own.
+- **Data Science applied where it changes decisions:** ETL pipelines, financial modeling and dashboards that show the business what's actually happening — including a **Binance API** integration for token and financial indicator analysis.
+- **Systems implementation and management in production:** deployment, integration, monitoring and continuous improvement — the unglamorous part that determines whether any of it actually works.
 
+> **In one line:** taking a company's real problems and building the systems that solve them — then keeping those systems running.
 ---
 
 ## 🛠 Tech Stack
