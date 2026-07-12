@@ -49,15 +49,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorbelle38@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5565996401402?text=Hi%20Victor,%20I'd%20like%20to%20know%20more%20about%20your%20work!)
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorBelle38&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBelle38&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
-</p>
 
 🎯 **Feel free to explore my repositories and collaborate! Let's build systems that turn data into decisions.**
